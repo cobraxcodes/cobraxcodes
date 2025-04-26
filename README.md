@@ -1,4 +1,4 @@
-![MasterHead](https://imgur.com/VVfAM6y)
+![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Melrose 
@@ -75,8 +75,8 @@ Building this project was a lot of fun and sparked so many ideas for future feat
 <p align="left"> <a href="https://www.codepen.io/melceballos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Melrose#7519" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/melroseceballos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/melrose-ceballos/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p> -->
 
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b>
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats</b> -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cobraxcodes&theme=radical&hide_border=false)
