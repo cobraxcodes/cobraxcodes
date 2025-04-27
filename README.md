@@ -8,11 +8,11 @@ Full-Stack Software Engineer
 -------------------------------------------------------------------------
 
 
-After co-founding a Web3 project called **Indigenous Women Fighters** and building a strong foundation in front-end development and smart contracts, I discovered my passion for tech and never looked back. I later joined a coding bootcamp and am currently preparing to return to school to pursue a degree in Computer Science.
+After co-founding a Web3 project called **Indigenous Women Fighters** and building a strong foundation in front-end development, I discovered my passion for tech and never looked back. I later joined a coding bootcamp and am currently preparing to return to school to continue my degree in Computer Science.
 
 (For reference, here's my old GitHub: [melroseceballos](https://github.com/melroseceballos).)
 
-After a 1.5-year hiatus, I’m back as **CobraXCodes** — leveling up my skills in full-stack development, AI, and language models. I'm passionate about blending creativity, code, and cutting-edge tech to build what’s next.
+After a 1.5-year hiatus, I’m back as **CobraXCodes** — renewing my skills in full-stack development, learning AI, and language models. I'm passionate about blending creativity, code, and cutting-edge tech to build what’s next.
 
 The journey is getting started again. 🚀
 
@@ -20,7 +20,7 @@ The journey is getting started again. 🚀
 * 🌍  I'm based in Las Vegas, NV
 * 🖥️  
 * ✉️  You can contact me at [cobraxcodes@gmail.com](mailto:cobraxcodes@gmail.com)
-* 🧠  Currently practicing async API calls again
+* 🧠  Currently reviewing async API calls 
 * 🤝  I'm open to collaborating on LLM projects.
 * ⚡  Fun fact, I speak 5 other languages and I am a huge Potterhead, House of Slytherin FTW!
 
