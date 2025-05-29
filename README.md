@@ -1,5 +1,6 @@
 ![MasterHead](https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3MDQ5NjUsIm5iZiI6MTc0NTcwNDY2NSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI2VDIxNTc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4YWVkNWUxNzZhODNlMjJlZTZjMjNkNGQ2YjY4ZmU5MWU3OGU0ZmY3YTFkY2MyYzEzMjgxMmUwYmFjMmZkYmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.BvUlSbtx7Y87YiO9duhkvqPBSAx4BPEbgI2dvGtLiKI)
 
+<div align='center'>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Melrose 
 ========================================================================================================================================
@@ -17,16 +18,21 @@ After a 1.5-year hiatus, I’m back as **CobraXCodes** — renewing my skills in
 The journey is getting started again. 🚀
 
 
-* 🌍  I'm based in Las Vegas, NV
-* 🖥️  
-* ✉️  You can contact me at [cobraxcodes@gmail.com](mailto:cobraxcodes@gmail.com)
-* 🧠  Currently reviewing async API calls 
-* 🤝  I'm open to collaborating on LLM projects.
-* ⚡  Fun fact, I speak 5 other languages and I am a huge Potterhead, House of Slytherin FTW!
+ 🌍  I'm based in Las Vegas, NV
+ 🖥️  
+ ✉️  You can contact me at [cobraxcodes@gmail.com](mailto:cobraxcodes@gmail.com)
+ 🧠  Currently reviewing async API calls 
+ 🤝  I'm open to collaborating on LLM projects.
+ ⚡  Fun fact, I speak 5 other languages and I am a huge Potterhead, House of Slytherin FTW!
 
 ## 💗 Favorite Project:
 One of my favorite projects is Filmove, a web app I built during bootcamp. Alongside it, I created a companion project which lets users navigate through the app using hand gestures.
 Building this project was a lot of fun and sparked so many ideas for future features! 🖖
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobraxcodes&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</div>
+
 
 
 
