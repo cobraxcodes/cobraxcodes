@@ -18,6 +18,8 @@ After co-founding a Web3 project called **Indigenous Women Fighters** and buildi
 After a 1.5-year hiatus, I’m back as **CobraXCodes** — renewing my skills in full-stack development, learning AI, and language models. I'm passionate about blending creativity, code, and cutting-edge tech to build what’s next.
 
 The journey is getting started again. 🚀
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobraxcodes&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 
 
  🌍  I'm based in Las Vegas, NV
@@ -30,9 +32,6 @@ The journey is getting started again. 🚀
 ## 💗 Favorite Project:
 One of my favorite projects is Filmove, a web app I built during bootcamp. Alongside it, I created a companion project which lets users navigate through the app using hand gestures.
 Building this project was a lot of fun and sparked so many ideas for future features! 🖖
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobraxcodes&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </div>
 
 
