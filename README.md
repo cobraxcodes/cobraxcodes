@@ -19,7 +19,7 @@ After a 1.5-year hiatus, I’m back as **CobraXCodes** — renewing my skills in
 
 The journey is getting started again. 🚀
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobraxcodes"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobraxcodes"/> -->
 
 
  🌍  I'm based in Las Vegas, NV
