@@ -19,7 +19,7 @@ After a 1.5-year hiatus, I’m back as **CobraXCodes** — renewing my skills in
 
 The journey is getting started again. 🚀
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobraxcodes&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobraxcodes"/>
 
 
  🌍  I'm based in Las Vegas, NV
